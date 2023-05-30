@@ -61,6 +61,13 @@ El cuaderno de Jupyter requiere las siguientes dependencias:
 <li>Abrir Jupyter Notebook en tu entorno de desarrollo preferido.</li>
 <li>Navegar hasta la ubicación del archivo `analisis_exploratorio_cines_arg.ipynb` y abrirlo.</li>
 <li>Ejecutar las celdas del cuaderno (<em>combinación de teclas alt + enter</em>) en secuencia para obtener los resultados y las visualizaciones.</li>
+
+<br>
+<b>Enlaces</b>:<ul>
+<li><a href= 'https://nbviewer.org/github/emanuelbe1/proyectos_analisis_de_datos/blob/main/cines_en_Argentina/Cines_en_Argentina.ipynb'>Ver el cuaderno en Jupyter Nbviewer</a></li>
+<li><a href= 'https://colab.research.google.com/github/emanuelbe1/proyectos_analisis_de_datos/blob/main/cines_en_Argentina/Cines_en_Argentina.ipynb'>Ver el cuaderno en Google Colab</a></li>
+<li><a href= 'https://github.com/emanuelbe1/proyectos_analisis_de_datos/tree/f758baf2c8b17573d8e7fdb691c42b71c93ed5ff/cines_en_Argentina'>Repositorio en GitHub</a></li>
+</ul>
 <br>
 <h3><b>Licencia</b></h3>
 <p>Este proyecto está bajo la licencia <a href='https://creativecommons.org/licenses/by-nc/4.0/'>Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</a>. Esto significa que se puede compartir y adaptar libremente el contenido de este proyecto para fines no comerciales, siempre y cuando se de el crédito apropiado al autor y se proporcione un enlace a la licencia.</p>
