@@ -1,5 +1,5 @@
-<h2>Análisis de Salas de Cine en Argentina</h2>
-<br>
+<h1>Proyectos</h1>
+<h3>· Análisis de salas de cine en Argentina</h3>
 <b>Descripción</b>: Investigación y examinación exhaustiva del panorama de las salas de cine en Argentina. Se exploraron los datos usando técnicas de ciencia de datos y análisis estadístico, investigando variables como: ubicación geográfica, cantidad de pantallas, y cadena de cine para obtener información sobre la industria cinematográfica en el país. También se crearon visualizaciones de los datos usando gráficos y mapas interactivos.
 <br>
 <br>
